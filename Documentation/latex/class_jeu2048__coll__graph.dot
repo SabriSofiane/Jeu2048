@@ -1,0 +1,6 @@
+digraph "Jeu2048"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{Jeu2048\n|- NB_VAL\l- grille\l- direction\l- nbCoups\l- score\l|+ Jeu2048()\l+ JouerCoup()\l+ ObtenirNbCoups()\l+ ObtenirScore()\l+ ObtenirGrille()\l- TirerAleatoire()\l- PlacerNouvelleTuille()\l- Calculer()\l- Deplacer()\l- CalculerScore()\l- RechercherFinDePartie()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}
